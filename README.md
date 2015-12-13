@@ -5,7 +5,7 @@ In this repository I document some of the experiments we did in electrowetting d
 
 ## Microfluidics
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t9vGEFjMJ7o" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/t9vGEFjMJ7o/0.jpg)](http://www.youtube.com/watch?v=t9vGEFjMJ7o)
 
 ---
 
