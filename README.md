@@ -1,7 +1,11 @@
-# Electrowetting experiments
+# Microfluidics experiment documentation
 
 In this repository I document some of the experiments we did in electrowetting during the [DITBio Hackathon](http://www.meetup.com/Dutch-DIY-Bio/events/227086115/) at [Waag Society](http://waag.org) on the
 12th and 14th of December 2015.
+
+## Microfluidics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t9vGEFjMJ7o" frameborder="0" allowfullscreen></iframe>
 
 ---
 
