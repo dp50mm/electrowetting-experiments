@@ -8,9 +8,9 @@ a codebase for a uniform application in the classical sense but a combination of
 
 First an introduction on Microfluidics to provide the functional context for the experiments of the hackathon.
 
-## Microfluidics
+## Microfluidics design context
 
-What is microfluidics?
+Why microfluidics?
 
 To answer this question we first have to look at the people working with fluids. In chemistry and biology research you work a lot with fluids. Over the years a whole set of _tools_ has been developed to work with fluids by hand in the laboratory.
 These are tools such as the:
@@ -35,6 +35,13 @@ As Leonardo himself documented it in the [Vitruvian Man](https://en.wikipedia.or
 * Four cubits make a Man
 * A pace is four cubits
 * A man is 24 palms
+
+Through technology our minds do not need to be constrained by the body.
+
+---
+
+# Digitalisation, electronics, robotics
+
 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/t9vGEFjMJ7o/0.jpg)](http://www.youtube.com/watch?v=t9vGEFjMJ7o)
