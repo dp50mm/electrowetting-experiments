@@ -21,9 +21,20 @@ These are tools such as the:
 
 Using these tools the researcher can perform each step of an experiment directly by hand. The thing to keep in mind with these tools is that all of them have been designed to be directly operated by humans. The *core design constraint* therefore is the scale of the human body.
 
+### Design constraint
+
 ![Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/176px-Da_Vinci_Vitruve_Luc_Viatour.jpg)
 
 This design constraint poses all sorts of limits on the performance of the tools. A human can pipet only so many samples per minute. Every tool needs to be at least close to the scale of the human hand otherwise we can't handle it.
+
+As Leonardo himself documented it in the [Vitruvian Man](https://en.wikipedia.org/wiki/Vitruvian_Man):
+
+* A palm is four fingers
+* A foot is four palms
+* A cubit is six palms
+* Four cubits make a Man
+* A pace is four cubits
+* A man is 24 palms
 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/t9vGEFjMJ7o/0.jpg)](http://www.youtube.com/watch?v=t9vGEFjMJ7o)
