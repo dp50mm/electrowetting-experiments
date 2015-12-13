@@ -14,12 +14,14 @@ What is microfluidics?
 
 To answer this question we first have to look at the people working with fluids. In chemistry and biology research you work a lot with fluids. Over the years a whole set of _tools_ has been developed to work with fluids by hand in the laboratory.
 These are tools such as the:
+
 * [Pipet](https://en.wikipedia.org/wiki/Pipette)
 * [Test tube](https://en.wikipedia.org/wiki/Test_tube)
 * [Centrifuge](https://en.wikipedia.org/wiki/Centrifuge)
+
 Using these tools the researcher can perform each step of an experiment directly by hand. The thing to keep in mind with these tools is that all of them have been designed to be directly operated by humans. The *core design constraint* therefore is the scale of the human body.
 
-[Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/176px-Da_Vinci_Vitruve_Luc_Viatour.jpg)
+![Vitruvian Man](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/176px-Da_Vinci_Vitruve_Luc_Viatour.jpg)
 
 This design constraint poses all sorts of limits on the performance of the tools. A human can pipet only so many samples per minute. Every tool needs to be at least close to the scale of the human hand otherwise we can't handle it.
 
